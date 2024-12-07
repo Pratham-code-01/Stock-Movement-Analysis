@@ -10,14 +10,15 @@ ___Evaluation Metrics___: The model is evaluated using classification metrics su
 
 ### Installation and Setup
 1. __Clone the repository__\
-Start by cloning the repository to your local machine:
-git clone <repository_link>
+Start by cloning the repository to your local machine:\
+git clone <repository_link>\
 cd project_name
 
 2. ___Set up the environment___\
-Create and activate a virtual environment:
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+Create and activate a virtual environment:\
+python3 -m venv venv\
+source venv/bin/activate    #For Mac\
+venv\Scripts\activate   #For Windows
 
 3. ___Install dependencies___\
 Install the required Python libraries:
