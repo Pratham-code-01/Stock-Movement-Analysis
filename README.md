@@ -106,12 +106,6 @@ Integrating Multiple Data Sources: Future work could involve incorporating other
 Real-Time Predictions: Real-time stock predictions could be integrated by continuously scraping new Reddit posts and predicting stock trends on the fly.
 Model Improvement: Exploring additional machine learning models and feature engineering could improve prediction accuracy.
 
-### Acknowledgments
-___Pandas___: For data manipulation and analysis.\
-___PRAW___: For Reddit data scraping.\
-___Scikit-Learn___: For machine learning tools and evaluation metrics.\
-___Matplotlib___: For visualizations and charts.
-
 
 Let me know if you need any changes or additional details added!
 
